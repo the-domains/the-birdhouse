@@ -1,0 +1,28 @@
+name: The Birdhouse
+favicon: null
+layout_spectrum: 0.8752854629419744
+typography_spectrum: 0.3043098603375256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.878538210876286
+  lightness: 0.8855104267131537
+  saturation: 0.7714748098514974
+  rhythmicContrast: 0.8317720368504524
+purpose: []
