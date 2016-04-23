@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Birdhouse]]></title>
         <description><![CDATA[The Birdhouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-birdhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 12:55:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 13:02:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-birdhouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title for first "post"]]></title>
+            <description><![CDATA[<p>First draft of a "post" for the Birdhouse site</p>]]></description>
+            <link>https://thegrid.ai/the-birdhouse/title-for-first-post/index.html</link>
+            <guid isPermaLink="false">a59eef4b-5ac7-4bcb-8ab9-41f23b1d55d7</guid>
+            <pubDate>Sat, 23 Apr 2016 13:02:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Second post title]]></title>
             <description><![CDATA[<p>Second "post"</p>]]></description>
-            <link>undefinedsecond-post-title/index.html</link>
+            <link>https://thegrid.ai/the-birdhouse/second-post-title/index.html</link>
             <guid isPermaLink="false">a3c0e11e-a83b-4252-8668-cc64d3a14522</guid>
             <pubDate>Sat, 23 Apr 2016 12:55:22 GMT</pubDate>
         </item>
