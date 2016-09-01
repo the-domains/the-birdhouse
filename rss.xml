@@ -4,7 +4,7 @@
         <description><![CDATA[Bringing local from the field to your plate]]></description>
         <link>https://thegrid.ai/the-birdhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 03:22:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-birdhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Title for first "post"]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<p>Breakfast With Ina</p>]]></description>
             <link>https://thegrid.ai/the-birdhouse/second-post-title/index.html</link>
             <guid isPermaLink="false">a3c0e11e-a83b-4252-8668-cc64d3a14522</guid>
-            <pubDate>Tue, 30 Aug 2016 02:48:46 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 03:22:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
