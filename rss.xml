@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[This is my test headline]]></title>
-        <description><![CDATA[This is my test headline]]></description>
+        <title><![CDATA[Bringing local from the field to your plate]]></title>
+        <description><![CDATA[Bringing local from the field to your plate]]></description>
         <link>https://thegrid.ai/the-birdhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 02:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:48:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-birdhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Title for first "post"]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Second post title...]]></title>
-            <description><![CDATA[<p>Second "post"</p>]]></description>
+            <description><![CDATA[<p>Breakfast With Ina</p>]]></description>
             <link>https://thegrid.ai/the-birdhouse/second-post-title/index.html</link>
             <guid isPermaLink="false">a3c0e11e-a83b-4252-8668-cc64d3a14522</guid>
-            <pubDate>Tue, 30 Aug 2016 02:13:23 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2016 02:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
