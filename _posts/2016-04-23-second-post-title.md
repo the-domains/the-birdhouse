@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T02:48:46.079Z'
+datePublished: '2016-08-30T03:22:04.330Z'
 sourcePath: _posts/2016-04-23-second-post-title.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-30T02:48:45.459Z'
+dateModified: '2016-08-30T03:22:03.884Z'
 title: ''
 publisher: {}
 description: Breakfast With Ina
