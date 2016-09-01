@@ -1,4 +1,3 @@
-layout_spectrum: 0.21556517644785345
 typography_spectrum: 0.7322148745879531
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.21556517644785345
 analytics:
   google: null
   facebook: null
@@ -30,10 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Sourcing runs deep with this one...
-    url: >-
-      http://goodfoodoneverytable.org/2016/08/22/nothing-goes-waste-chicagos-spoke-bird/
-    type: external
   - name: Ina Pinkney's take on us...
     url: >-
       http://www.chicagotribune.com/dining/restaurants/ct-breakfast-with-ina-may-food-0525-20160519-story.html
