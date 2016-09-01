@@ -30,13 +30,13 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Ina Pinkney's take on us...
-    url: >-
-      http://www.chicagotribune.com/dining/restaurants/ct-breakfast-with-ina-may-food-0525-20160519-story.html
-    type: external
   - name: Sourcing runs deep with this one...
     url: >-
       http://goodfoodoneverytable.org/2016/08/22/nothing-goes-waste-chicagos-spoke-bird/
+    type: external
+  - name: Ina Pinkney's take on us...
+    url: >-
+      http://www.chicagotribune.com/dining/restaurants/ct-breakfast-with-ina-may-food-0525-20160519-story.html
     type: external
 favicon: null
 title: Bringing local from the field to your plate
