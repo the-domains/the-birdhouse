@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: News and content
+    id: a3c0e11e-a83b-4252-8668-cc64d3a14522
+    type: content
 favicon: null
 title: Bringing local from the field to your plate
 description: We do more than just talk about doing local
