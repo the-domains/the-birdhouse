@@ -29,11 +29,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Ina Pinkney's take on us...
-    url: >-
-      http://www.chicagotribune.com/dining/restaurants/ct-breakfast-with-ina-may-food-0525-20160519-story.html
-    type: external
 favicon: null
 title: Bringing local from the field to your plate
 description: We do more than just talk about doing local
