@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Sourcing runs deep with  this one
-    id: a3c0e11e-a83b-4252-8668-cc64d3a14522
-    type: content
   - name: Sourcing runs deep with this one...
     url: >-
       http://goodfoodoneverytable.org/2016/08/22/nothing-goes-waste-chicagos-spoke-bird/
