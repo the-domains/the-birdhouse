@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Scott Golas
+  email: scott@spokeandbird.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66d6573d-fecf-4ae0-9c7d-f2f7b2554a0e.svg
 name: The Birdhouse
 cta:
   domain: null
@@ -34,6 +39,6 @@ navigation:
       http://www.chicagotribune.com/dining/restaurants/ct-breakfast-with-ina-may-food-0525-20160519-story.html
     type: external
 favicon: null
-title: This is my test headline
+title: Bringing local from the field to your plate
 description: This is a test tagline
 purpose: []
